@@ -202,4 +202,4 @@ This repository serves as the official landing page for Acts of Blood. The softw
 **Get the most recent version of Acts of Blood today!**
 
 ---
-**Last updated:** 2026-11-07 16:44:07 UTC
+**Last updated:** 2026-11-07 20:39:34 UTC
